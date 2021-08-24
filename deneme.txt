@@ -2,12 +2,7 @@ merhabalar
 bu bir güncelleme mesajidir
 testtt git 
 cakisma test git remote
-<<<<<<< HEAD
 supraaaaaaaaaa
 aaaaaaaa
 aaaaaaaa
-=======
-ıdjgkdf
-fgdfşld
-jfpkdflş
->>>>>>> b4e1fc7bf1d89374fa6c7cbb63d35ab33a56443e
+
